@@ -33,7 +33,7 @@ class MyDocument extends Document {
                 box-sizing: border-box;
               }
               body {
-                font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+                font-family: 'Times New Roman';
                 font-size: 1rem;
                 margin: 0;
               }
